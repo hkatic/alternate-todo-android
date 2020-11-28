@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Мої завдання</string>
+	<string name="new_task">Додати нове завдання</string>
+	<string name="todo_list_view">Список завдань</string>
+	<string name="enter_task_date">Введіть дату та час завдання</string>
+	<string name="enter_task_title">Введіть заголовок завдання</string>
+	<string name="enter_task_text">Введіть текст завдання</string>
+	<string name="save_button">Зберегти</string>
+	<string name="task_saved">Завдання збережено.</string>
+	<string name="edit_button">Редагувати завдання</string>
+	<string name="delete_button">Видалити завдання</string>
+	<string name="task_deleted">Завдання видалено.</string>
+	<string name="task_updated">Завдання оновлено.</string>
+	<string name="my_task">Моє завдання</string>
+	<string name="pick_date_and_time">Вибрати дату та час</string>
+	<string name="title_cannot_be_empty">Помилка, заголовок не може бути порожнім!</string>
+	<string name="text_cannot_be_empty">Помилка, текст не може бути порожнім!</string>
+	<string name="date_and_time_cannot_be_empty">Помилка, треба ввести дату та час!</string>
+	<string name="invalid_date_and_time">Помилка, хибний формат дати та часу.</string>
+	<string name="error_updating_task">Помилка, неможливо оновити завдання. Вірогідно, це тому, що ви намагаєтеся додати завдання з тими ж датою та часом, що має одне з існуючих завдань. Це викликає конфлікти. Будь ласка, змініть хоча б одну хвилину.</string>
+	<string name="error_saving_task">Помилка, неможливо зберегти завдання. Вірогідно, це тому, що ви намагаєтеся додати завдання з тими ж датою та часом, що має одне з існуючих завдань. Це викликає конфлікти. Будь ласка, змініть хоча б одну хвилину.</string>
+	<string name="error_deleting_task">Помилка, неможливо видалити завдання.</string>
+</resources>
