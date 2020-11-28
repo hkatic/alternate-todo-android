@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<EditText
+		android:id="@+id/edit_text_date"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:autofillHints=""
+		android:hint="@string/enter_task_date"
+		android:inputType="text" />
+
+	<Button
+		android:id="@+id/button_pick_date_time"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:text="@string/pick_date_and_time" />
+
+	<EditText
+		android:id="@+id/edit_text_title"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:autofillHints="@string/my_task"
+		android:hint="@string/enter_task_title"
+		android:inputType="textCapWords" />
+
+	<EditText
+		android:id="@+id/edit_text_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:hint="@string/enter_task_text"
+		android:importantForAutofill="no"
+		android:inputType="textMultiLine" />
+
+	<Button
+		android:id="@+id/button_save"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:text="@string/save_button" />
+
+</LinearLayout>

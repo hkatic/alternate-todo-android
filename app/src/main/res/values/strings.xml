@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Alternate Todo</string>
+	<string name="new_task">Add new task</string>
+	<string name="todo_list_view">Tasks list</string>
+	<string name="enter_task_date">Enter task date and time</string>
+	<string name="enter_task_title">Enter task title</string>
+	<string name="enter_task_text">Enter task text</string>
+	<string name="save_button">Save</string>
+	<string name="task_saved">Task saved.</string>
+	<string name="edit_button">Edit this task</string>
+	<string name="delete_button">Delete this task</string>
+	<string name="task_deleted">Task deleted.</string>
+	<string name="task_updated">Task updated.</string>
+	<string name="my_task">My Task</string>
+	<string name="pick_date_and_time">Pick date and time</string>
+	<string name="title_cannot_be_empty">Error, title cannot be empty!</string>
+	<string name="text_cannot_be_empty">Error, text cannot be empty!</string>
+	<string name="date_and_time_cannot_be_empty">Error, date and time must be entered!</string>
+	<string name="invalid_date_and_time">Error, invalid date and time format.</string>
+	<string name="error_updating_task">Error, task cannot be updated. That\'s probably because You\'re trying to add task with exactly the same date and time as for the one of the previously added tasks, causing conflicts. Please, change at least a minute.</string>
+	<string name="error_saving_task">Error, task cannot be saved. That\'s probably because You\'re trying to add task with exactly the same date and time as for the one of the previously added tasks, causing conflicts. Please, change at least a minute.</string>
+	<string name="error_deleting_task">Error, task cannot be deleted.</string>
+</resources>

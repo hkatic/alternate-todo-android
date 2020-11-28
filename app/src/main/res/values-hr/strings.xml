@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Moje Obveze</string>
+	<string name="new_task">Dodaj novu obvezu</string>
+	<string name="todo_list_view">Popis obveza</string>
+	<string name="enter_task_date">Unesite datum i vrijeme obveze</string>
+	<string name="enter_task_title">Unesite naslov obveze</string>
+	<string name="enter_task_text">Unesite tekst obveze</string>
+	<string name="save_button">Spremi</string>
+	<string name="task_saved">Obveza je spremljena.</string>
+	<string name="edit_button">Izmijeni ovu obvezu</string>
+	<string name="delete_button">Izbriši ovu obvezu</string>
+	<string name="task_deleted">Obveza je izbrisana.</string>
+	<string name="task_updated">Obveza je ažurirana.</string>
+	<string name="my_task">Moja Obveza</string>
+	<string name="pick_date_and_time">Odaberi datum i vrijeme</string>
+	<string name="title_cannot_be_empty">Pogreška, naslov ne može biti prazan!</string>
+	<string name="text_cannot_be_empty">Pogreška, tekst ne može biti prazan!</string>
+	<string name="date_and_time_cannot_be_empty">Pogreška, mora se unijeti datum i vrijeme!</string>
+	<string name="invalid_date_and_time">Pogreška, neispravan oblik datuma i vremena.</string>
+	<string name="error_updating_task">Pogreška, obvezu nije moguće ažurirati. To je vjerojatno zato što pokušavate dodati obvezu sa potpuno istim datumom i vremenom koje je već bilo unešeno za neku od prethodno dodanih obveza, stvarajući tako konflikt. Molimo, promijenite bar minutu.</string>
+	<string name="error_saving_task">Pogreška, obvezu nije moguće spremiti. To je vjerojatno zato što pokušavate dodati obvezu sa potpuno istim datumom i vremenom koje je već bilo unešeno za neku od prethodno dodanih obveza, stvarajući tako konflikt. Molimo, promijenite bar minutu.</string>
+	<string name="error_deleting_task">Pogreška, obvezu nije moguće izbrisati.</string>
+</resources>

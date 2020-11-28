@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Moje Obaveze</string>
+	<string name="new_task">Dodaj novu obavezu</string>
+	<string name="todo_list_view">Spisak obaveza</string>
+	<string name="enter_task_date">Unesite datum i vreme obaveze</string>
+	<string name="enter_task_title">Unesite naslov obaveze</string>
+	<string name="enter_task_text">Unesite tekst obaveze</string>
+	<string name="save_button">Sačuvaj</string>
+	<string name="task_saved">Obaveza je sačuvana.</string>
+	<string name="edit_button">Promeni ovu obavezu</string>
+	<string name="delete_button">Obriši ovu obavezu</string>
+	<string name="task_deleted">Obaveza je obrisana.</string>
+	<string name="task_updated">Obaveza je ažurirana.</string>
+	<string name="my_task">Moja Obaveza</string>
+	<string name="pick_date_and_time">Odaberi datum i vreme</string>
+	<string name="title_cannot_be_empty">Pogreška, naslov ne može biti prazan!</string>
+	<string name="text_cannot_be_empty">Pogreška, tekst ne može biti prazan!</string>
+	<string name="date_and_time_cannot_be_empty">Pogreška, datum i vreme moraju biti unešeni!</string>
+	<string name="invalid_date_and_time">Pogreška, neispravan format datuma i vremena.</string>
+	<string name="error_updating_task">Pogreška, obavezu nije moguće ažurirati. To je verojatno zato što pokušavate dodati obavezu sa potpuno istim datumom i vremenom koje je već bilo unešeno za neku od prethodno dodanih obaveza, stvarajući tako konflikt. Molimo, promenite bar minutu.</string>
+	<string name="error_saving_task">Pogreška, obavezu nije moguće sačuvati. To je verojatno zato što pokušavate dodati obavezu sa potpuno istim datumom i vremenom koje je već bilo unešeno za neku od prethodno dodanih obaveza, stvarajući tako konflikt. Molimo, promenite bar minutu.</string>
+	<string name="error_deleting_task">Pogreška, obavezu nije moguće obrisati.</string>
+</resources>
